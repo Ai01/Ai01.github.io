@@ -1,0 +1,26 @@
+header:
+    - title:      博客
+      url:        /docs/zh/quick-start
+    - titles:
+          en:       About
+          zh:       关于
+          zh-Hans:  关于
+          zh-Hant:  關於
+      url:        /about/index.html
+    - title:      GitHub
+      url:        https://github.com/Ai01
+
+docs-en:
+  - title:      Start
+    children:
+      - title:  Quick Start
+        url:    /docs/en/quick-start
+      - title:  Structure
+        url:    /docs/en/structure
+      ...
+  - title:      Customization
+    children:
+      - title:  Configuration
+        url:    /docs/en/configuration
+      - title:  Navigation
+        url:    /docs/en/navigation
