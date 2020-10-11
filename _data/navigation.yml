@@ -1,6 +1,6 @@
 header:
-    - title:      博客
-      url:        /blog/index.html
+    - title:      归档
+      url:        /blog.html
     - titles:
           en:       About
           zh:       关于
@@ -11,15 +11,11 @@ header:
       url:        https://github.com/Ai01
 
 docs-en:
-  - title:      Start
+  - title:      技术
     children:
-      - title:  Quick Start
+      - title:  前端
         url:    /docs/en/quick-start
-      - title:  Structure
-        url:    /docs/en/structure
-  - title:      Customization
+  - title:      随笔
     children:
       - title:  Configuration
         url:    /docs/en/configuration
-      - title:  Navigation
-        url:    /docs/en/navigation
