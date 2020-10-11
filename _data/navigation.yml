@@ -1,6 +1,6 @@
 header:
     - title:      博客
-      url:        /docs/zh/quick-start
+      url:        /blog/index.html
     - titles:
           en:       About
           zh:       关于
@@ -17,7 +17,6 @@ docs-en:
         url:    /docs/en/quick-start
       - title:  Structure
         url:    /docs/en/structure
-      ...
   - title:      Customization
     children:
       - title:  Configuration
